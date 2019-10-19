@@ -1,3 +1,12 @@
+1. Go to the netlify to set up a web publishment based on Github
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
