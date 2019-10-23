@@ -1,0 +1,1 @@
+every component will refer to the corresponding page in pages folder.

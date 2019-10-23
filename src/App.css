@@ -14,6 +14,7 @@
 
 }
 
+/* the product title */
 .text-title
 {
   font-family: 'Montserrat', sans-serif;
@@ -22,6 +23,7 @@
   text-transform: capitalize;
 }
 
+/* the main text */
 .text-main
 {
   color: var(--primaryColor);
